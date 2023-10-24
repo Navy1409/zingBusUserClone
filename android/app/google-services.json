@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36753051833",
+    "project_id": "zingbusclone",
+    "storage_bucket": "zingbusclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36753051833:android:1235ef22987e3b6b26cb68",
+        "android_client_info": {
+          "package_name": "com.example.zing_bus_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWKrh-egFyQ6MKw1HW-4HxhId5y88vGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
